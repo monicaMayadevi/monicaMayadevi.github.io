@@ -1,12 +1,15 @@
 [{
+	"id": 1,
 	"nombre": "Viernes 13",
 	"genero": "Terror",
 	"clasificacion": "C"
 }, {
+	"id": 2,
 	"nombre": "Bambi",
 	"genero": "Infantil",
 	"clasificacion": "A"
 }, {
+	"id": 3,
 	"nombre": "XXX",
 	"genero": "Accion",
 	"clasificacion": "B"
